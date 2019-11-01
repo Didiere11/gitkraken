@@ -24,6 +24,7 @@ class MainActivityGrafica : AppCompatActivity() {
     }
 
     fun setBarChart() {
+        //kndkjnbekfjbvkrbvkiefrbkerb
         //Agregamos datos de tipo float, en el primer paramtro
         // se indica el angulo de las Y y en en
         // segundo parametro el lado de X
