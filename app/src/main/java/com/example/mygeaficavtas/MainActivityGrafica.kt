@@ -22,9 +22,8 @@ class MainActivityGrafica : AppCompatActivity() {
         val admin = AdminBD(this)
         cursor=admin.consulta("Select * from Empleado Order by Ventas")
     }
-
+// el cambio esta aqui
     fun setBarChart() {
-        //kndkjnbekfjbvkrbvkiefrbkerb
         //Agregamos datos de tipo float, en el primer paramtro
         // se indica el angulo de las Y y en en
         // segundo parametro el lado de X
